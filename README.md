@@ -29,7 +29,8 @@
 ## 🌐 Connect With Me  
 
 - 💼 GitHub: https://github.com/Kishore0o7x   
-- 📧 Email: kishorekumar0o7x.com  
+- 📧 Email: kishorekumar0o7x@gmail.com
+-  [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/im_kishore17/)
 
 ---
 
