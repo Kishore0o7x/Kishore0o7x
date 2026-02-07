@@ -1,7 +1,7 @@
 # Hi 👋, I'm Kishore Kumar  
 
 🚀 Student | Tech Enthusiast | Aspiring Developer  
-💻 Interested in Programming, Blockchain, AI & Cybersecurity  
+💻 Interested in Programming | Blockchain | AI & Cybersecurity | OpenSource  
 
 ---
 
